@@ -1,0 +1,14 @@
+ul a {
+    text-shadow: 2px;
+    color: red;
+}
+ul a:visited{
+    color:black;
+}
+ul a:hover{
+    color:green;
+}
+ul a:active{
+    color:blue;
+
+}
