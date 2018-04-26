@@ -1,0 +1,39 @@
+ .telefon{
+    height: 500px; 
+    width: 400px;
+    max-width: 300px;
+    background-color: yellow;
+    overflow: hidden;
+    border: 2px dashed red;
+    
+    margin-right: 20px;
+    
+ }
+ div.box {
+     height: 300px;
+     max-height: 200px;
+     width: 400px;
+     background-color: red;
+     overflow: scroll;
+    margin-right: 20px;
+    
+ }
+.olovka{
+    background-color: yellow;
+    border: 2px solid green;
+    padding: 50px;
+    width: 200px;
+    margin-right: 20px;
+   
+}
+.naslov{
+    width: 960px;
+    margin: 50px auto;
+    padding: 50px auto 50px auto;
+    background-color: green;
+    color: purple;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: 0 0 10px #777777;
+    border-radius: 30px;
+    text-align: center;
+}
