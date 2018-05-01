@@ -1,0 +1,98 @@
+body {
+    background-image: url("http://freshwallpapers.net/file/7767/500x338/16:9/coffee-with-chocolate-cake-_1831018401.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: blanchedalmond;
+    font-size: 20px;
+}
+
+.box {
+    height:1000px;
+    width:400px;
+    background-color: gray;
+    float:left;
+    clear: both;
+    border: 3px dotted green;
+}
+
+main {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.heading1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;    
+}
+
+h2, h3 {
+    color:red;
+}
+
+aside {
+    float: right;
+    clear: both;
+    height: 200px;
+    width: 1px;
+}
+.photo1 {
+    display: block;
+    height: 200px;
+    float: right;
+}
+
+.photo2 {
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    clear: both;
+}
+
+.photo3 {
+    display: block;
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+.bit {
+    text-align: center;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content:"";
+    display:table;
+}
+
+.clearfix:after {
+    clear:both;
+}
+
+.nav1  {
+    font-size: 30px;
+}
+
+.nav1 ul {
+    float: right;
+}
+
+.nav1 ul li {
+    float:left;
+    margin-left: 10px;
+    margin-right:10px;
+}
+
+.photo5 {
+    float: right;
+    clear: both;
+    height: 100px;
+    width: 1px;
+}
+
