@@ -16,9 +16,20 @@
             @include header-font($white-color, $bold-text);
             }
     }
-    .navbar-toggler {
+    .navbar-toggler{
         background-color: $main-color;
-        color:$white-color;
-        
+        color: $white-color;
+        &:hover,
+        &:active,
+        &:visited,
+        &:focus{
+            background: transparent;
+        }
     }
+   
+    
+   
 }
+
+
+
