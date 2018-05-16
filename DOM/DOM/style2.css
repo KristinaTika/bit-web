@@ -1,0 +1,17 @@
+.border {
+    border: 2px red dotted;
+}
+
+.first-button {
+    background-color: red;
+}
+
+.second-button {
+    background-color: yellow;
+}
+
+
+.blue {
+    background-color: rgb(29, 29, 82);
+}
+
