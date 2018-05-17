@@ -1,0 +1,26 @@
+body {
+    position: relative;
+}
+.div-class{
+    position: relative;
+    border: 1px solid black;
+    width: 96%;
+}
+
+.input-text {
+    width: 80%;
+    border:solid rgb(42, 145, 230);
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
+
+.send {
+    width:19%;
+    color:white;
+    background-color: red;
+    position: fixed;
+    bottom: 0px;
+    right:0px;
+}
+
