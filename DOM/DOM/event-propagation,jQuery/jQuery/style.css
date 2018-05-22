@@ -1,0 +1,8 @@
+.redline{
+    border-bottom: 1px solid red;
+}
+
+.toupper{
+    text-transform: uppercase;
+}
+

@@ -1,0 +1,16 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url("field.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    width:70px;
+}
+.button {
+    position: fixed;
+    bottom: 90px;
+    right: 20px;
+}
